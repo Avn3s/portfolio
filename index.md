@@ -1,3 +1,15 @@
+---
+showHero: true
+title: Anubhab Bhandari
+description: B.Tech Electronics and Communication Engineering, VIT Vellore
+#image:
+cta:
+  - href: /about
+    label: About me
+  - href: /featured
+    label: Featured posts
+---
+
 # Philosophy Wiki
 
 A connected reference for exploring the history and core questions of philosophy. Navigate by branch, by thinker, or by concept — every entry links outward.
@@ -13,20 +25,20 @@ A connected reference for exploring the history and core questions of philosophy
 
 ## Key Philosophers
 
-| Philosopher | Era | Known For |
-|---|---|---|
-| [[Socrates]] | Classical Greek | Dialectic method, the examined life |
-| [[Plato]] | Classical Greek | [[The Forms]], the ideal state |
-| [[Aristotle]] | Classical Greek | [[Logic]], [[Virtue Ethics]], empiricism |
-| [[Descartes]] | Early Modern | Cogito, mind-body dualism |
-| [[Hume]] | Enlightenment | Empiricism, skepticism, causation |
-| [[Locke]] | Enlightenment | Natural rights, tabula rasa |
-| [[Rousseau]] | Enlightenment | [[Social Contract]], general will |
-| [[Kant]] | Late Enlightenment | [[Categorical Imperative]], critique of reason |
-| [[Hegel]] | German Idealism | [[Dialectics]], Absolute Spirit |
-| [[Marx]] | 19th Century | Historical materialism, class struggle |
-| [[Nietzsche]] | 19th Century | Will to power, eternal return |
-| [[Wittgenstein]] | 20th Century | Language games, picture theory |
+| Philosopher      | Era                | Known For                                      |
+| ---------------- | ------------------ | ---------------------------------------------- |
+| [[Socrates]]     | Classical Greek    | Dialectic method, the examined life            |
+| [[Plato]]        | Classical Greek    | [[The Forms]], the ideal state                 |
+| [[Aristotle]]    | Classical Greek    | [[Logic]], [[Virtue Ethics]], empiricism       |
+| [[Descartes]]    | Early Modern       | Cogito, mind-body dualism                      |
+| [[Hume]]         | Enlightenment      | Empiricism, skepticism, causation              |
+| [[Locke]]        | Enlightenment      | Natural rights, tabula rasa                    |
+| [[Rousseau]]     | Enlightenment      | [[Social Contract]], general will              |
+| [[Kant]]         | Late Enlightenment | [[Categorical Imperative]], critique of reason |
+| [[Hegel]]        | German Idealism    | [[Dialectics]], Absolute Spirit                |
+| [[Marx]]         | 19th Century       | Historical materialism, class struggle         |
+| [[Nietzsche]]    | 19th Century       | Will to power, eternal return                  |
+| [[Wittgenstein]] | 20th Century       | Language games, picture theory                 |
 
 ## Core Concepts
 
