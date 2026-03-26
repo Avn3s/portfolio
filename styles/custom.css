@@ -4,3 +4,11 @@ aside[class*="toc"],
 .table-of-contents {
     display: none !important;
 }
+/* Make content full width */
+main,
+.container,
+.content {
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 2rem !important;
+}

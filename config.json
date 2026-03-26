@@ -1,7 +1,7 @@
 {
+  "logo": "󱙝",
   "description": "A collection of all things avnes",
   "nav": {
-    "logo": "󱙝",
     "title": "Portfolio"
   },
   "favicon": "󱙝",
@@ -11,5 +11,6 @@
     "theme": "lessflowery",
     "defaultMode": "dark",
     "showModeSwitch": true
-  }
+  },
+  "styles": ["/styles/custom.css"]
 }
