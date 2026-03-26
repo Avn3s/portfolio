@@ -1,7 +1,8 @@
 {
-  "logo": "🏛️",
+  "description": "Your site description",
   "nav": {
-    "title": "Philosophy Wiki"
+    "logo": "󱙝",
+    "title": "Something else"
   },
   "favicon": "🏛️",
   "showSidebar": true,
