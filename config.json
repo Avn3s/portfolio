@@ -1,12 +1,12 @@
 {
-  "description": "Your site description",
+  "description": "A collection of all things avnes",
   "nav": {
     "logo": "󱙝",
-    "title": "Something else"
+    "title": "Portfolio"
   },
   "favicon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij4KCTxnIGZpbGw9Im5vbmUiPgoJCTxwYXRoIGZpbGw9IiM5YmE4N2QiIGQ9Ik0xNiAxMC41YzAgLjgyOC0uNDQ4IDEuNS0xIDEuNXMtMS0uNjcyLTEtMS41cy40NDgtMS41IDEtMS41czEgLjY3MiAxIDEuNSIgLz4KCQk8ZWxsaXBzZSBjeD0iOSIgY3k9IjEwLjUiIGZpbGw9IiM5YmE4N2QiIHJ4PSIxIiByeT0iMS41IiAvPgoJCTxwYXRoIHN0cm9rZT0iIzliYTg3ZCIgc3Ryb2tlLXdpZHRoPSIwLjkiIGQ9Ik0yMiAxOS43MjN2LTcuNDIyQzIyIDYuNjEgMTcuNTIzIDIgMTIgMlMyIDYuNjEyIDIgMTIuM3Y3LjQyM2MwIDEuMzIyIDEuMzUxIDIuMTgyIDIuNSAxLjU5MWEyLjgyIDIuODIgMCAwIDEgMi44OTYuMTg2YTIuODIgMi44MiAwIDAgMCAzLjIwOCAwbC4zNTMtLjI0MmExLjg0IDEuODQgMCAwIDEgMi4wODYgMGwuMzUzLjI0MmEyLjgyIDIuODIgMCAwIDAgMy4yMDggMGEyLjgyIDIuODIgMCAwIDEgMi44OTctLjE4NmMxLjE0OC41OTEgMi40OTktLjI2OSAyLjQ5OS0xLjU5MVoiIG9wYWNpdHk9IjAuMzUiIC8+Cgk8L2c+Cjwvc3ZnPg==",
   "showSidebar": true,
-  "title": "Philosophy Wiki",
+  "title": "Portfolio",
   "theme": {
     "theme": "lessflowery",
     "defaultMode": "dark",
