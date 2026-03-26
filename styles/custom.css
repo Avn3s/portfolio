@@ -1,0 +1,6 @@
+/* Hide right-side TOC */
+aside[class*="toc"],
+.toc,
+.table-of-contents {
+    display: none !important;
+}

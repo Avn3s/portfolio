@@ -5,7 +5,7 @@
     "title": "Portfolio"
   },
   "favicon": "󱙝",
-  "showSidebar": true,
+  "showSidebar": false,
   "title": "Portfolio",
   "theme": {
     "theme": "lessflowery",
