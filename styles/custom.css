@@ -12,3 +12,23 @@ main,
     margin: 0 auto !important;
     padding: 0 2rem !important;
 }
+
+@font-face {
+    font-family: "Maple Mono NF";
+    src: url("/fonts/MapleMono-NF-Regular.truetype") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+main {
+    font-family: "Maple Mono NF", monospace !important;
+}
+
+main h1,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+    font-family: inherit !important;
+}
