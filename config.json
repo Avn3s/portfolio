@@ -7,6 +7,8 @@
   "showSidebar": true,
   "title": "Philosophy Wiki",
   "theme": {
-    "theme": "letterpress@0.1.6"
+    "theme": "lessflowery",
+    "defaultMode": "dark",
+    "showModeSwitch": true
   }
 }
